@@ -1,10 +1,10 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Cellular Semantics"
+description = "Welcome to Sanger Cellular Semantics team"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["docs"]
+mainSections = ["projects"]
 
 [social]
   twitter = "getdoks"
@@ -21,7 +21,7 @@ mainSections = ["docs"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
+  navBarButtonUrl = "/projects/prologue/introduction/"
   navBarButtonText = "Get started"
 
   # FlexSearch
