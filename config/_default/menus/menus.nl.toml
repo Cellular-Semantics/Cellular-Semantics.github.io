@@ -1,18 +1,18 @@
-[[docs]]
+[[projects]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/projects/prologue/"
 
-[[docs]]
+[[projects]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/docs/help/"
+  url = "/projects/help/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
+  name = "projects"
+  url = "/projects/prologue/introduction/"
   weight = 10
 
 # [[main]]
