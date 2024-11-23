@@ -1,12 +1,12 @@
 ---
-title: "Welcome to Doks"
+title: "Cellular Semantics"
 description: ""
-lead: "Congrats on setting up a new Doks project!"
+lead: "Welcome to the Sanger Cellular Semantics Team"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false
 seo:
-  title: "Welcome to Doks" # custom title (optional)
+  title: "Cellular Semantics" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
