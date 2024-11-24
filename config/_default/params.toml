@@ -7,7 +7,7 @@ images = ["cover.png"]
 mainSections = ["projects"]
 
 [social]
-  twitter = "getdoks"
+  twitter = "CellSemantics"
 
 # Doks (@thulite/doks-core)
 [doks]

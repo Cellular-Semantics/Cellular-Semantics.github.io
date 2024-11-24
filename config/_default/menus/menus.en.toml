@@ -58,16 +58,16 @@
   post = "v0.1.0"
   weight = 30
 
-[[sidebar_projects]]
-  name = "Guides"
-  pageRef = "/projcets/guides"
-  weight = 10
+# [[sidebar_projects]]
+#   name = "Guides"
+#   pageRef = "/projcets/guides"
+#   weight = 10
 
-[[sidebar_projects]]
-  name = "Reference"
-  pageRef = "/projects/reference"
-  weight = 20
-
+# [[sidebar_projects]]
+#   name = "Reference"
+#   pageRef = "/projects/reference"
+#   weight = 20
+#
 # [[sidebar_docs]]
 #   name = "Resources"
 #   pageRef = "/docs/resources"
