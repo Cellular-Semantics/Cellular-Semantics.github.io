@@ -15,4 +15,4 @@ seo:
 ---
 
 Team's projects are:
-- [Single Cell Knowledge Graph])(team/projects/kg.md)
+- [Single Cell Knowledge Graph](team/projects/single-cell-knowledge-graph/)
