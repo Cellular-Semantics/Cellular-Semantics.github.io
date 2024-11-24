@@ -29,8 +29,8 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "Projects"
-  url = "/projects/guides/example-guide/"
+  name = "Team"
+  url = "/team/projects/all/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 

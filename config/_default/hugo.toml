@@ -58,7 +58,7 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 
 [permalinks]
   blog = "/blog/:slug/"
-  projects = "/projects/:sections[1:]/:slug/"
+  team = "/team/:sections[1:]/:slug/"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]

@@ -4,7 +4,7 @@ description = "Welcome to Sanger Cellular Semantics team"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["projects"]
+mainSections = ["team"]
 
 [social]
   twitter = "CellSemantics"
@@ -21,7 +21,7 @@ mainSections = ["projects"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/projects/prologue/introduction/"
+  navBarButtonUrl = "/team/prologue/introduction/"
   navBarButtonText = "Get started"
 
   # FlexSearch
@@ -44,7 +44,7 @@ mainSections = ["projects"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["projects"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["team"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
