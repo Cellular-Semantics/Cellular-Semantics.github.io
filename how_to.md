@@ -22,3 +22,5 @@ Authoring content: https://getdoks.org/docs/basics/authoring-content/
 ## Source
 
 This repo is sourced from https://github.com/thuliteio/doks-gh-pages
+
+For details see https://getdoks.org
