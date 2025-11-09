@@ -2,8 +2,8 @@
 title: "Team members"
 description: "Cellular Semantics team members"
 summary: ""
-date: 2023-09-07T16:04:48+02:00
-lastmod: 2023-09-07T16:04:48+02:00
+date: 2023-09-07
+lastmod: 2025-11-09
 draft: false
 weight: 810
 toc: true
