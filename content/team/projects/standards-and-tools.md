@@ -38,3 +38,9 @@ A Python utility package for working with the Cell Annotation Schema, available 
 A Python library and CLI that annotates [MapMyCells](https://brain-map.org/bkp/analyze/mapmycells) output with [Cell Ontology (CL)](https://obofoundry.org/ontology/cl.html) terms. MapMyCells assigns cells to Allen Brain Atlas taxonomy nodes; this tool maps those node IDs to CL or Provisional Cell Ontology (PCL) terms, using information-content ranking to pick the most specific applicable term. It works on both CSV/JSON MapMyCells outputs and h5ad files, adding CELLxGENE-schema-compliant cell type columns.
 
 **Status:** Usable — early release (`pip install mapmycells2cl`). [GitHub](https://github.com/Cellular-Semantics/MapMyCells2CL)
+
+### OBASK (Ontology Based Application Starter Kit)
+
+A framework for rapidly building ontology-driven websites and knowledge portals: it ingests ontologies and linked data and stands up faceted search, term pages and a queryable graph. OBASK underpins [Virtual Fly Brain](https://virtualflybrain.org/), the Allen [Cell Type Knowledge Explorer](https://knowledge.brain-map.org/celltypes), and ontology search on the [Cell Annotation Platform](https://celltype.info/).
+
+**Status:** Released. [Documentation](https://obasktools.github.io/obask/)
