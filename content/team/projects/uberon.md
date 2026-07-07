@@ -27,8 +27,8 @@ We are extending Uberon to include terms and structures from:
 - **The community** — responding to and integrating anatomy term requests from across the Uberon user community.
 - **HuBMAP Human Reference Atlas (HRA)** — anatomical structures underpinning the reference atlas of the healthy human body.
 - **Allen Brain Atlas anatomies** — ontologising and Uberon-mapping the Allen Institute brain StructureGraphs. These are maintained as standard OBO ontologies on the [brain-bican](https://github.com/brain-bican) organisation:
-  - [Developing Human Brain Atlas ontology (DHBA)](https://github.com/brain-bican/developing_human_brain_atlas_ontology)
-  - [Human Brain Atlas ontology (HBA)](https://github.com/brain-bican/human_brain_atlas_ontology)
-  - [Mouse Brain Atlas ontology (MBA)](https://github.com/brain-bican/mouse_brain_atlas_ontology)
-  - [Harmonized Ontology of Mammalian Brain Anatomy (HOMBA)](https://github.com/brain-bican/harmonized_ontology_of_mammalian_brain_anatomy_ontology) — harmonises mammalian brain anatomy across species and atlases.
+  - **Developing Human Brain Atlas ontology (DHBA)** — [GitHub](https://github.com/brain-bican/developing_human_brain_atlas_ontology) · [OLS](https://www.ebi.ac.uk/ols4/ontologies/dhba)
+  - **Human Brain Atlas ontology (HBA)** — [GitHub](https://github.com/brain-bican/human_brain_atlas_ontology) · [OLS](https://www.ebi.ac.uk/ols4/ontologies/hba)
+  - **Mouse Brain Atlas ontology (MBA)** — [GitHub](https://github.com/brain-bican/mouse_brain_atlas_ontology) · [OLS](https://www.ebi.ac.uk/ols4/ontologies/mba)
+  - **Harmonized Ontology of Mammalian Brain Anatomy (HOMBA)** — harmonises mammalian brain anatomy across species and atlases: [GitHub](https://github.com/brain-bican/harmonized_ontology_of_mammalian_brain_anatomy_ontology)
 - **Human Developmental Cell Atlas** — anatomical structures and developmental **niches**.

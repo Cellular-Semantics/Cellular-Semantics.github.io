@@ -37,4 +37,4 @@ The HMBA cross-species **consensus** cell-type taxonomy of the primate basal gan
 
 ## Related anatomy ontologies
 
-These taxonomies are accompanied by standard OBO ontology versions of the corresponding brain anatomies — see [Uberon](/team/projects/uberon/) for the Allen Brain Atlas ontologies (DHBA, HBA, MBA, HOMBA) and the [Basal Ganglia Ontology (BGO)](https://github.com/Cellular-Semantics/hmba_basal_ganglia_ontology).
+These taxonomies are accompanied by standard OBO ontology versions of the corresponding brain anatomies — see [Uberon](/team/projects/uberon/) for the Allen Brain Atlas ontologies (DHBA, HBA, MBA, HOMBA).
