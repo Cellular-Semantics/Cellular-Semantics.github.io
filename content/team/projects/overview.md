@@ -15,7 +15,7 @@ seo:
   noindex: false
 ---
 
-Part of the Wellcome Sanger Institute's [Cellular Genetics Programme](https://www.sanger.ac.uk/programme/cellular-genetics/), the **Cellular Semantics team** is dedicated to advancing knowledge in cell classification and understanding cellular diversity. We combine expertise in cell biology, bioinformatics, ontology development and agentic AI to help biologists — and biological databases — agree on what cell types are, describe them consistently, and connect them to the data and evidence behind them.
+Part of the Wellcome Sanger Institute's [Cellular Genomics Programme](https://www.sanger.ac.uk/programme/cellular-genomics/), the **Cellular Semantics team** is dedicated to advancing knowledge in cell classification and understanding cellular diversity. We combine expertise in cell biology, bioinformatics, ontology development and agentic AI to help biologists — and biological databases — agree on what cell types are, describe them consistently, and connect them to the data and evidence behind them.
 
 Our work spans open community standards, data-driven taxonomies, and a growing suite of AI-driven tools.
 

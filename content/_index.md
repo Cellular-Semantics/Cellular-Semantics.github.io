@@ -14,6 +14,6 @@ seo:
 
 📣 **We're running a workshop at ICBO 2026:** [*Cell Type Knowledge in the Age of Foundation Models and Agentic AI*](https://cellular-semantics.github.io/ICBO_2026_workshop/) — Washington DC, 17 July 2026.
 
-Part of the Wellcome Sanger Institute's [Cellular Genetics Programme](https://www.sanger.ac.uk/programme/cellular-genetics/), the **Cellular Semantics** team builds ontologies, standards and AI-driven tools that help biologists and databases agree on **what cell types are**, describe them consistently, and connect them to the data and evidence behind them.
+Part of the Wellcome Sanger Institute's [Cellular Genomics Programme](https://www.sanger.ac.uk/programme/cellular-genomics/), the **Cellular Semantics** team builds ontologies, standards and AI-driven tools that help biologists and databases agree on **what cell types are**, describe them consistently, and connect them to the data and evidence behind them.
 
 We develop and curate the [**Cell Ontology**](/team/projects/cell-ontology/) — the community standard vocabulary of cell types used across single-cell and spatial atlases — and are major contributors to the [**Uberon**](/team/projects/uberon/) anatomy ontology. Around these we build [**agentic AI workflows**](/team/projects/agentic-workflows/), [**standards**](/team/projects/standards-and-tools/) for recording annotation evidence, and data-driven [**taxonomies**](/team/projects/taxonomies/) of brain cell types.
