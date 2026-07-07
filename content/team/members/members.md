@@ -19,7 +19,7 @@ seo:
 
 David is a biologist by background — working in developmental genetics research before switching to biocuration, ontology building and semantic solutions for organising and querying biological data. He leads the Cellular Semantics team, whose work focuses on designing and building highly scalable ontologies, standards and agentic-AI solutions for biomedicine, with a strong focus on supporting single-cell biology, atlasing and cross-species comparison.
 
-- [ORCID](https://orcid.org/0000-0002-7073-9172) · [Sanger profile](https://www.sanger.ac.uk/person/osumi-sutherland-david/)
+- [ORCID](https://orcid.org/0000-0002-7073-9172) · [Sanger profile](https://www.sanger.ac.uk/person/osumi-sutherland-david/) · [LinkedIn](https://www.linkedin.com/in/osumisutherland/)
 
 ### Uğur Bayındır — Semantic Web Developer
 
