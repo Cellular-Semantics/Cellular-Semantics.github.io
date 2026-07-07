@@ -27,7 +27,7 @@ The team is core-funded by the Wellcome Trust through the Wellcome Sanger Instit
 
 Supporting development and extension of the [Cell Ontology](/team/projects/cell-ontology/) and semantic tooling for single-cell data — including ontology coverage for Human Cell Atlas datasets, annotation of [CELLxGENE](https://cellxgene.cziscience.com/) content, our knowledge graph, and agentic ontology-editing and annotation workflows.
 
-- **Current grant** (2026–2027) — Cell Ontology extension for published HCA atlases, agentic editing and annotation tools, and semantic support for CELLxGENE users.
+- **Chan Zuckerberg Initiative DAF, grant BHDAF2026-011729** (current, 2026–2027) — Cell Ontology extension for published HCA atlases, agentic editing and annotation tools, and semantic support for CELLxGENE users.
 - **Chan Zuckerberg Initiative DAF, grant 2023-221471** (recently completed) — added hundreds of new cell type terms, flagged Cell-Ontology-annotated content in CELLxGENE Census, released a Neo4j knowledge graph combining CL with CELLxGENE metadata, and delivered semantic query tooling.
 
 ## NIH BRAIN Initiative — Human and Mammalian Brain Atlas (HMBA)
