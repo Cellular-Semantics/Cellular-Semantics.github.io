@@ -44,9 +44,14 @@
   weight = 30
 
 [[main]]
+  name = "Funding"
+  url = "/team/funding/"
+  weight = 40
+
+[[main]]
   name = "Workshop"
   url = "https://cellular-semantics.github.io/ICBO_2026_workshop/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "X"
