@@ -6,7 +6,7 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/team/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}projects/team/" role="button">Projects</a>
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/team/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}projects/overview/" role="button">Explore our projects</a>
       {{ .Content }}
     </div>
   </div>
@@ -24,20 +24,20 @@
     <div class="container">
       <div class="row justify-content-center text-center">
         <div class="col-lg-5">
-          <h2 class="h4">Update content</h2>
-          <p>Edit <code>content/_index.md</code> to see this page change.</p>
+          <h2 class="h4">Ontologies</h2>
+          <p>We develop the <a href="/team/projects/cell-ontology/">Cell Ontology</a> and contribute to <a href="/team/projects/uberon/">Uberon</a> — community standards for cell types and anatomy.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Add new content</h2>
-          <p>Add Markdown files to <code>content</code> to create new pages.</p>
+          <h2 class="h4">Agentic AI workflows</h2>
+          <p>Evidence-grounded <a href="/team/projects/agentic-workflows/">AI tools</a> for querying atlases, interpreting cell types and recording annotation evidence.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Configure your site</h2>
-          <p>Edit your config in <code>config/_default/params.toml</code>.</p>
+          <h2 class="h4">Taxonomies</h2>
+          <p>Data-driven <a href="/team/projects/taxonomies/">cell-type taxonomies</a> of the mammalian brain, built with the BRAIN Initiative Cell Census Network.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Read the docs</h2>
-          <p>Learn more in the <a href="https://getdoks.org/">Docs</a>.</p>
+          <h2 class="h4">Standards &amp; tools</h2>
+          <p>The <a href="/team/projects/standards-and-tools/">Cell Annotation Schema</a> and tools for capturing and reusing cell type annotations.</p>
         </div>
       </div>
     </div>
